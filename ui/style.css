@@ -1,0 +1,25 @@
+/*-------------- LOGO DISPLAY - Made By FAXES -------------- */
+
+#logo .contenair{
+	position:absolute;
+	z-index: 2;    
+	width: 40px;									
+	height:40px;									
+	right:1%;										
+	top:14%;										
+	margin:-150px 0 0 -115px;    					
+	opacity: 0.60; 
+	background: url('img/logo.png');				
+	padding: none; 									
+    
+}
+
+
+
+
+
+
+
+
+
+
