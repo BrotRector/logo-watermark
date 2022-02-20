@@ -1,7 +1,6 @@
 AddEventHandler('onClientMapStart', function()
   Citizen.CreateThread(function()
     local display = true
-
     TriggerEvent('logo:display', true)
   end)
 end)
